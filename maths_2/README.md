@@ -1,1 +1,1 @@
-second
+Probability theory and mathematical statistics
