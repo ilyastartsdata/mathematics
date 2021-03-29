@@ -10,7 +10,14 @@ Course from Geekbrains University
 
 ## List of topics 
 
-1.
+1. Random events. Conditional Probability. Bayes formula. Independent trials
+2. Discrete random variables. Probability distribution law. Binomial law of distribution. Poisson distribution
+3. Descriptive statistics. Qualitative and quantitative characteristics of a population. Graphical representation of data
+4. Continuous random variables. Distribution function and probability density function. Uniform and normal distributions. The central limit theorem
+5. Testing statistical hypotheses. P-values. Confidence intervals. A/B Testing
+6. Relationship of quantities. Parametric and non-parametric correlation measures. Correlation analyses
+7. Multivariate statistical analysis. Linear regression
+8. Analysis of variance. Logistic regression
 
 ---
 
