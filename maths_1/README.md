@@ -10,7 +10,16 @@ Course from Geekbrains University
 
 ## List of topics 
 
-1.
+1. Set. Sequence. Part 1
+2. Set. Sequence. Part 2
+3. Limits of a function. Part 1
+4. Limits of a function. Part 2
+5. The derivative of a function of one variable. Part 1
+6. The derivative of a function of one variable. Part 2
+7. The derivative of a function of several variables. Part 1
+8. The derivative of a function of several variables. Part 2
+9. Integral. Rows. Part 1
+10. Integral. Rows. Part 2
 
 ___
 
