@@ -12,11 +12,27 @@ Course from Geekbrains University
 
 **Introduction to mathematical analysis**
 
-1. 
+1. Set. Sequence. Part 1
+2. Set. Sequence. Part 2
+3. Limits of a function. Part 1
+4. Limits of a function. Part 2
+5. The derivative of a function of one variable. Part 1
+6. The derivative of a function of one variable. Part 2
+7. The derivative of a function of several variables. Part 1
+8. The derivative of a function of several variables. Part 2
+9. Integral. Rows. Part 1
+10. Integral. Rows. Part 2
 
 **Probability theory and mathematical statistics**
 
-1. 
+1. Random events. Conditional Probability. Bayes formula. Independent trials
+2. Discrete random variables. Probability distribution law. Binomial law of distribution. Poisson distribution
+3. Descriptive statistics. Qualitative and quantitative characteristics of a population. Graphical representation of data
+4. Continuous random variables. Distribution function and probability density function. Uniform and normal distributions. The central limit theorem
+5. Testing statistical hypotheses. P-values. Confidence intervals. A/B Testing
+6. Relationship of quantities. Parametric and non-parametric correlation measures. Correlation analyses
+7. Multivariate statistical analysis. Linear regression
+8. Analysis of variance. Logistic regression
 
 ---
 
