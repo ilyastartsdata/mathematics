@@ -10,7 +10,7 @@ Course from Geekbrains University
 
 ---
 
-## List of topics 
+## List of files 
 
 1. Set. Sequence. Part 1 - Lesson_2_en
 2. Set. Sequence. Part 2 - Lesson_3_en
